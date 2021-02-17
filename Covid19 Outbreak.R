@@ -1,5 +1,6 @@
 # Randy Nguyen  
 # Data Visualization Project
+# https://github.com/nytimes/covid-19-data
 UScases_B <- read.csv("~/Downloads/us.csv",as.is = TRUE)
 View(UScases_B)
 
